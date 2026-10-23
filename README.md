@@ -2,9 +2,7 @@
 
 <h3 align="center">AI/ML developer building LLM applications, RAG pipelines and ML systems</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahilk004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://hits.sh/github.com/Sahilk004.svg?label=Profile%20views&color=0e75b6" alt="Profile views" />
 
 <p align="center">
   <em>Open to remote / async roles — based in India (IST), comfortable with EST/PST overlap</em>
