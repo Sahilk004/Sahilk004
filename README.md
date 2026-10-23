@@ -24,15 +24,15 @@ Recent B.Tech (ECE) graduate from Dr. B.R. Ambedkar NIT Jalandhar. I build **LLM
 
 ## 🚀 Featured Projects
 
-### 🎥 [AI Video Assistant](https://github.com/Sahilk004/<repo-name>)
+### 🎥 [AI Video Assistant](https://github.com/Sahilk004/AI-Video-Assistant)
 Turns YouTube videos and local audio/video files into summaries, action items and open questions, then lets you chat with the content using RAG. English transcription with Whisper and Hinglish with Sarvam AI.
 `Python` `LangChain` `OpenAI` `Whisper` `Sarvam AI` `ChromaDB`
 
-### 🔎 [Multi-Agent Research System](https://github.com/Sahilk004/<repo-name>)
+### 🔎 [Multi-Agent Research System](https://github.com/Sahilk004/Multi-Agent-AI-Research-System)
 Multi-agent pipeline that searches the web, reads sources, writes a research report and critiques it, with a Streamlit app that shows live progress and per-stage timing. Averages about 27 seconds per report across 10 test topics.
 `Python` `LangChain` `OpenAI` `Tavily` `Streamlit`
 
-### 🚚 [Delivery Time Predictor](https://github.com/Sahilk004/<repo-name>)
+### 🚚 [Delivery Time Predictor](https://github.com/Sahilk004/Delivery_Time)
 End-to-end ML pipeline predicting food delivery time from 10,000 orders: handled a Missing-Not-At-Random target, compared 5 regression models, and fixed a data-leakage bug. Best model (tuned XGBoost) reached 0.967 R² and a 2.13-minute MAE.
 `Python` `scikit-learn` `XGBoost` `FastAPI`
 
@@ -78,12 +78,6 @@ More projects are on my [portfolio](https://portfolio-one-topaz-99.vercel.app/).
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilk004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilk004&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
 
 ---
 
